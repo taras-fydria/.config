@@ -1,0 +1,12 @@
+.mozilla/
+/dconf
+/Kitware
+/pulse/
+/yay/
+.mozilla/firefox/Crash Reports
+user-dirs.dirs
+user-dirs.locale
+user-dirs.locale
+dconf
+htop
+calcure/
